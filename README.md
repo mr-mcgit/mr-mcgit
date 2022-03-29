@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mr-mcgit
+- 👀 I’m interested in ...
+-   Git
+- 🌱 I’m currently learning ...
+-   none of your business
+- 💞️ I’m looking to collaborate on ...
+-   nothing at the moment
+- 📫 How to reach me ...
+
+<!---
+mr-mcgit/mr-mcgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
